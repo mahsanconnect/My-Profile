@@ -1,1 +1,2 @@
 # My-Profile
+I'm a passionate Data Scientist and Machine Learning enthusiast. Proficient in a variety of programming languages, data analysis tools, and cloud platforms. Experienced in implementing unsupervised and unsupervised learning, deep learning and recommendation engines
